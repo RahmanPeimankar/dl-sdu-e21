@@ -1,1 +1,9 @@
-# dl-sdu-e21
+# Welcome to Deep Learning Course (E21)
+
+Rahman Peimankar, 2021 
+
+The Maersk Mc-Kinney Møller Institute - University of Southern Denmark  
+
+Please change to "master" branch in order to view/download the course materials, as shown in figure below.
+
+![](master-screenshot.jfif)
