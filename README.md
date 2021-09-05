@@ -1,6 +1,6 @@
 # Please Follow the Instruction Below to Run the Notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dsa-sdu-e21/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dl-sdu-e21/master)
 
 
 On this page, you can find course materials such as slides and Jupyter notebooks.
