@@ -1,6 +1,6 @@
 # Please Follow the Instruction Below to Run the Notebooks
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e21/blob/master/Lecture%208/dl-8-time-series-analysis-1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RahmanPeimankar/dl-sdu-e21/tree/master)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dl-sdu-e21/master)
 
