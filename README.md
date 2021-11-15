@@ -4,6 +4,8 @@ Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e21/blob/master/Lecture%208/dl-8-time-series-analysis-1.ipynb)
 
+Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e21/blob/master/Lecture%209/dl-9-time-series-analysis-2.ipynb#scrollTo=fcp3NB4izPvd)
+
 Lab Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dl-sdu-e21/blob/master/Lab%20Tutorial/lab-tsc.ipynb) 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/dl-sdu-e21/master)
